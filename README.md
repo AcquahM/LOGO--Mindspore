@@ -1,7 +1,5 @@
 # LOGO-MindSpore
 
-Migrate from PyTorch version [LOGO](https://github.com/shiyi-zh0408/LOGO)
-
 ## Requirements
 
 - Python >= 3.6
